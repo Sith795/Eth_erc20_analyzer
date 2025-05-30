@@ -1,0 +1,12 @@
+eth_wallet_analyzer/
+│
+├── eth_analyzer.py           
+├── requirements.txt          
+├── README.md                
+├── .gitignore               
+├── LICENSE                  
+├── config/                 
+│   └── config.json         
+├── data/                    
+└── docs/                   
+    └── usage.md            
