@@ -1,0 +1,5 @@
+{
+  "infura_url": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+  "infura_ws_url": "wss://mainnet.infura.io/ws/v3/YOUR_INFURA_PROJECT_ID",
+  "etherscan_api_key": "YOUR_ETHERSCAN_API_KEY"
+}
