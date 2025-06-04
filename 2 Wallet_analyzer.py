@@ -1,7 +1,7 @@
 import requests
 
 API_KEY = "your API_KeY"
-WALLET_ADDRESS = "0x96FeF57e0dB8fEB445Af555a9A4768e1dB142946"
+WALLET_ADDRESS = "0xWalletAdress"
 ETHERSCAN_API_URL = "https://api.etherscan.io/api"
 
 def get_wallet_balance(address, api_key):
